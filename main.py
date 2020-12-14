@@ -2,7 +2,9 @@ from random import randint as r
 
 s=""
 
+print("Minimum length of password should be 4")
 n=int(input("Enter the password length"))
+
 
 k=0
 
