@@ -44,7 +44,7 @@ while(k!=n-4):
         
 
 
-f=r(0,n)
+f=r(0,n-1)
    
 print (s[f:]+s[:f])
 
